@@ -2,7 +2,6 @@ Cardiovascular Disease Prediction
 
 This project aims to predict cardiovascular diseases using automated machine learning (AutoML) techniques with H2O and TPOT. The goal is to build accurate models that can assist in early detection and prevention of cardiovascular diseases.
 
-
 Table of Contents
 
 1. Overview
@@ -11,21 +10,18 @@ Table of Contents
 
 3. Installation
 
-4. Usage
+4. Dataset
 
-5. Dataset
+5. Modeling
 
-6. Modeling
+6. Results
 
-7. Results
-
-8. Contributing
+7. Contributing
 
 
 Overview  
 
 Cardiovascular diseases are a leading cause of death worldwide. Early detection through predictive modeling can significantly improve treatment outcomes and save lives. This project leverages AutoML tools, specifically H2O and TPOT, to automate the machine learning workflow and build robust predictive models.
-
 
 Features
 
@@ -39,43 +35,19 @@ Model Evaluation: Assessing model performance using various metrics.
 
 Visualization: Plotting important results and feature importances.
 
-
 Installation
 
 Prerequisites
-Python 3.6 or higher
-pip
+
+-Python 3.6 or higher
+
+-pip
 
 Clone the Repository
-bash
-Copy code
+
 git clone https://github.com/Yuvraaj14/CardioVascular_Disease_AutoML_Project.git
+
 cd CardioVascular_Disease_AutoML_Project
-
-Usage
-
-Data Preprocessing
-python
-Copy code
-python preprocess.py
-Model Training with H2O
-python
-Copy code
-python train_h2o.py
-Model Training with TPOT
-python
-Copy code
-python train_tpot.py
-Evaluate Models
-python
-Copy code
-python evaluate.py
-Jupyter Notebooks
-To interactively explore the data and models, use the provided Jupyter notebooks:
-bash
-Copy code
-jupyter notebook
-
 
 Dataset
 
@@ -104,9 +76,6 @@ Precision
 Recall
 
 F1 Score
-
-ROC AUC
-
 
 Contributing
 
