@@ -5,12 +5,19 @@ This project aims to predict cardiovascular diseases using automated machine lea
 Table of Contents
 
 Overview
+
 Features
+
 Installation
+
 Usage
+
 Dataset
+
 Modeling
+
 Results
+
 Contributing
 
 Overview
